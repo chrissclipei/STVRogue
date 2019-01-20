@@ -1,4 +1,4 @@
-# **STV- Rogue**
+# **STV-Rogue**
 ## Collaborators
 - Buse Guldiken
 - Emmanuel Huff
